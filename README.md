@@ -1,4 +1,6 @@
 #  Ubuntu Automated Customer Service Chatbot
+![Chatbot UI](assets/ui.png)
+
 
 A retrieval-based chatbot for Ubuntu technical support using the Ubuntu Dialogue Corpus.
 It uses Sentence Transformers embeddings + FAISS vector search + a lightweight reranker to return helpful support-style answers.
