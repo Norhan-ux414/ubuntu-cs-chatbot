@@ -1,0 +1,8 @@
+
+##  محتوى requirements.txt
+```txt
+pandas
+scikit-learn
+faiss-cpu
+sentence-transformers
+streamlit
